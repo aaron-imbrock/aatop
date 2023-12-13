@@ -1,3 +1,3 @@
-module github.com/aaron-imbrock/aatop
+module aatop
 
 go 1.21.4

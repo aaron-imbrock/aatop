@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/aaron-imbrock/aatop/read"
+	"aatop/read"
 )
 
 func main() {
